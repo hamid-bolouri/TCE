@@ -1,19 +1,9 @@
----
-title: "Readme.Rmd"
-author: "Hamid.Bolouri"
-date: "12/12/2019"
-output: html_document
----
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
+### This reporsitory contains R scripts used to generate the results in "Integrative network modeling reveals mechanisms underlying T cell exhaustion", Scientific Reports, 2020.
 
-# This reporsitory contains R scripts used to generate the results in "Integrative network modeling reveals mechanisms underlying T cell exhaustion", Scientific Reports, 2020.
+# Description of files:
 
-## Description of files:
-
-(Note: To maintain 1:1 mapping to our local files, the original file names are maintained here.)
+(Note: To maintain 1:1 mapping to our local files, the original file names are kept here.)
 
 ## Make Cytoscape annotation files from infection expression data
 mkCyEdgeAnnotTbl_July2017.R
