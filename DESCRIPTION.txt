@@ -1,0 +1,11 @@
+Package: TCE-model-analysis
+Type: Package
+Title: Scripts and data for the paper on "Integrative network modeling reveals mechanisms underlying T cell exhaustion"
+Version: 1.0
+Author: Hamid Bolouri
+Maintainer: Hamid Bolouri <HBolouri@gmail.com>
+Copyright: Hamid Bolouri & Celgene Corporation
+Description: Scripts and data for the paper on "Integrative network modeling reveals mechanisms underlying T cell exhaustion"
+License: MIT  + file LICENSE
+Encoding: UTF-8
+LazyData: true
