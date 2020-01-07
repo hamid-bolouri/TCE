@@ -13,7 +13,7 @@ mkCyNodeAnnot_July2017.R
 mkCancerEdgeAnnotTbl_July2017.R
 mkCancerNodeAnnotTbl_July2017.R
 
-## Additional analysis of data from Andrea Scjietinger's lab
+## Additional analysis of data from Andrea Schietinger's lab
 Schietinger_final.R
 mkScheitingerFC.tbl.R
 edgeScoreSchietinger.R
